@@ -50,6 +50,7 @@ class BDD:
         global driver
         driver = self.__driver
 
+
     def sort_time(self):
         minutes = randint(10,60)
         return minutes
