@@ -50,7 +50,6 @@ class BDD:
         global driver
         driver = self.__driver
 
-
     def sort_time(self):
         minutes = randint(10,60)
         return minutes
@@ -112,6 +111,9 @@ class BDD:
         try:
             while True: ### Criar um jeito de verificar quando o twitter mandar yma tela de login no meio do processo, crie outra função para isso, só pegar o código do login
                 browser = self.__browser
+                if self.__test:
+                    print(f'Navegador: {browser}')
+                    sleep(3)
                 self.show(f'entrando no perfil: {target}')
                 link_target = f'https://www.twitter.com/{target}'
                 driver.get(link_target)
@@ -126,7 +128,6 @@ class BDD:
                     '/html/body/div/div/div/div[2]/main/div/div/div/div[1]/div/div[2]/div/div/div[1]/div[2]/div[1]/div/div[1]/div').click()  # Botão três pontos
                 if self.__test:
                     self.show('[teste-mode] clicando na opção de denunciar')
-                print(f'Navegador: {browser}')
                 sleep(5)
                 #driver.find_element_by_css_selector('div.r-1loqt21:nth-child(9)').click()
                 #driver.find_element_by_css_selector('div.r-1loqt21:nth-child(8)').click()

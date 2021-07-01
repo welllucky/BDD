@@ -1,0 +1,574 @@
+1619321797756	geckodriver	INFO	Listening on 127.0.0.1:55880
+1619334219131	geckodriver	INFO	Listening on 127.0.0.1:53206
+1619334222261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofile2tBVyb"
+1619334227545	Marionette	INFO	Marionette enabled
+[Parent 13412, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619334250304	Marionette	INFO	Listening on port 53216
+1619334250715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619334306002	Marionette	INFO	Stopped listening on port 53216
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619334415981	geckodriver	INFO	Listening on 127.0.0.1:53715
+1619334419035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileiT5LR1"
+1619334421991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619334429087	Marionette	INFO	Listening on port 53742
+1619334429224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619334514590	Marionette	INFO	Stopped listening on port 53742
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619334641101	geckodriver	INFO	Listening on 127.0.0.1:54321
+1619334644164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileB862hV"
+1619334645235	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 7704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619334649748	Marionette	INFO	Listening on port 54329
+1619334650028	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619334681558	Marionette	INFO	Stopped listening on port 54329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619467629363	geckodriver	INFO	Listening on 127.0.0.1:64636
+1619467632465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofilesZeGzH"
+1619467638520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619467657356	Marionette	INFO	Listening on port 64645
+1619467657971	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13012, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 151 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.3f337e85.js)
+1619467674767	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1619467764182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileXfxn7K"
+1619467765839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619467771652	Marionette	INFO	Listening on port 64764
+1619467771718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 151 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.3f337e85.js)
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.d04646e5.js, line 1: Error: Invalid JSON string: [object Object]
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1619467830357	geckodriver	INFO	Listening on 127.0.0.1:64846
+1619467833466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileU8QiBG"
+1619467835022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619467840634	Marionette	INFO	Listening on port 64855
+1619467840979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619467846010	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,na1619467867437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileWrpbWO"
+1619467869465	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619467875409	Marionette	INFO	Listening on port 64969
+1619467875665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619467880739	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+1619467945287	Marionette	INFO	Stopped listening on port 64969
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619467946046	geckodriver	INFO	Listening on 127.0.0.1:65119
+1619467949090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofilepPfBVB"
+1619467951070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619467956925	Marionette	INFO	Listening on port 65128
+1619467957228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619467962252	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+1619468226943	Marionette	INFO	Stopped listening on port 65128
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619468230498	geckodriver	INFO	Listening on 127.0.0.1:65249
+1619468233525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileVVaCeF"
+1619468234581	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619468239949	Marionette	INFO	Listening on port 65259
+1619468239968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619468244990	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619468685807	Marionette	INFO	Stopped listening on port 65259
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+zprofilen1P83i"
+1619468677104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619468683744	Marionette	INFO	Listening on port 65395
+1619468683903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619468702002	geckodriver	INFO	Listening on 127.0.0.1:65439
+1619468705054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileGa1bCM"
+1619468705801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619468710024	Marionette	INFO	Listening on port 65447
+1619468710341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619468732930	Marionette	INFO	Stopped listening on port 65447
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619468758008	geckodriver	INFO	Listening on 127.0.0.1:65531
+1619468761050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileAz7gtq"
+1619468761482	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619468764822	Marionette	INFO	Listening on port 49156
+1619468765240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 16 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~ondemand.EmojiPickerData~ondemand.EmojiPicker.85e35f55.js)
+1619468788541	Marionette	INFO	Stopped listening on port 49156
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619468951876	geckodriver	INFO	Listening on 127.0.0.1:49298
+1619468954963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileDUTywF"
+1619468955398	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619468959371	Marionette	INFO	Listening on port 49308
+1619468959748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619468964781	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+[Child 8868, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 8868, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1619469020329	Marionette	INFO	Stopped listening on port 49308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619469695014	geckodriver	INFO	Listening on 127.0.0.1:50861
+1619469698048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileDcXSFV"
+1619469699362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619469704915	Marionette	INFO	Listening on port 50869
+1619469704969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 151 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.3f337e85.js)
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:69
+unregisterCommandsActor@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:2335:3
+onClosed@chrome://marionette/content/server.js:194:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1619469718909	Marionette	INFO	Stopped listening on port 50869
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619469788408	geckodriver	INFO	Listening on 127.0.0.1:51086
+1619469791448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileZViA38"
+1619469792982	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619469796672	Marionette	INFO	Listening on port 51094
+1619469796741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 151 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.3f337e85.js)
+JavaScript error: https://twitter.com/tonmedeiros, line 131: ChunkLoadError: Loading chunk 155 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.ea236265.js)
+JavaScript error: https://twitter.com/tonmedeiros, line 131: ChunkLoadError: Loading chunk 155 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.graphQLDarkReads.ea236265.js)
+1619469984248	Marionette	INFO	Stopped listening on port 51094
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619472320541	geckodriver	INFO	Listening on 127.0.0.1:51955
+1619472323491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileWEmUCM"
+1619472325094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619472331978	Marionette	INFO	Listening on port 51965
+1619472332791	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11796, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619472347790	Marionette	INFO	Stopped listening on port 51965
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619472973907	geckodriver	INFO	Listening on 127.0.0.1:53151
+1619472977022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileJBVNLD"
+1619472979199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619472983442	Marionette	INFO	Listening on port 53160
+1619472983960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619473004832	Marionette	INFO	Stopped listening on port 53160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620023546214	geckodriver	INFO	Listening on 127.0.0.1:50508
+1620023549059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofile9eJcS3"
+1620023557212	Marionette	INFO	Marionette enabled
+1620023570311	geckodriver	INFO	Listening on 127.0.0.1:50538
+1620023573389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofile2UyYS9"
+1620023574170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620023589263	Marionette	INFO	Listening on port 50546
+1620023589693	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 176 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.f19f64f5.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 239 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.ee891fa5.js)
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[Parent 2352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620023618082	Marionette	INFO	Stopped listening on port 50546
+[Parent 2352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620023701058	geckodriver	INFO	Listening on 127.0.0.1:50648
+1620023704131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileflm2d8"
+1620023707130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620023712921	Marionette	INFO	Listening on port 50658
+1620023713206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620023864584	Marionette	INFO	Stopped listening on port 50658
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofilejPewsA"
+1620023860049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620023867772	Marionette	INFO	Listening on port 50769
+1620023868082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620024064697	Marionette	INFO	Stopped listening on port 50769
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileVxseck"
+1620024055407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620024060768	Marionette	INFO	Listening on port 50883
+1620024061154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 151 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.3f337e85.js)
+[Parent 7656, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620024408396	Marionette	INFO	Stopped listening on port 50883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620024611629	geckodriver	INFO	Listening on 127.0.0.1:51106
+1620024614749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileRXT176"
+1620024615889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620024622419	Marionette	INFO	Listening on port 51114
+1620024622680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 151 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.3f337e85.js)
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+1620024673745	Marionette	INFO	Stopped listening on port 51114
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620024740055	geckodriver	INFO	Listening on 127.0.0.1:51308
+1620024743119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileDl3UcL"
+1620024744190	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620024751670	Marionette	INFO	Listening on port 51316
+1620024751691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 151 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.3f337e85.js)
+1620024803472	Marionette	INFO	Stopped listening on port 51316
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileyxR3DV"
+1620024804418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620024811915	Marionette	INFO	Listening on port 51412
+1620024812346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620024831313	Marionette	INFO	Stopped listening on port 51412
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620024844984	geckodriver	INFO	Listening on 127.0.0.1:51502
+1620024848102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileVdoCR6"
+1620024850378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620024856993	Marionette	INFO	Listening on port 51511
+1620024857173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620025101056	geckodriver	INFO	Listening on 127.0.0.1:51606
+1620025104107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileO3WQZc"
+1620025105766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620025113495	Marionette	INFO	Listening on port 51614
+1620025113727	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620025317409	Marionette	INFO	Stopped listening on port 51614
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+25308826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620025319404	Marionette	INFO	Listening on port 51715
+1620025319839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 151 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.3f337e85.js)
+1620025348491	Marionette	INFO	Stopped listening on port 51715
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620025553073	geckodriver	INFO	Listening on 127.0.0.1:52019
+1620025556121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofile8RjK70"
+1620025557860	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620025566196	Marionette	INFO	Listening on port 52027
+1620025566784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 151 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.3f337e85.js)
+1620025618863	Marionette	INFO	Stopped listening on port 52027
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620025691644	geckodriver	INFO	Listening on 127.0.0.1:52127
+1620025694688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileuw09kd"
+1620025696634	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620025704170	Marionette	INFO	Listening on port 52135
+1620025704335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 151 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.3f337e85.js)
+1620026163968	Marionette	INFO	Stopped listening on port 52135
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maxwe\\AppData\\Local\\Temp\\rust_mozprofileEHFw5T"
+1620026152649	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620026163026	Marionette	INFO	Listening on port 52250
+1620026163315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620026171393	Marionette	INFO	Stopped listening on port 52250
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
