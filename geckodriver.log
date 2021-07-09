@@ -1,0 +1,300 @@
+1619306518518	geckodriver	INFO	Listening on 127.0.0.1:56117
+1619306518527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWgwk99"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619306534729	Marionette	INFO	Listening on port 40881
+1619306535054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619306540073	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2541:11
+1619306550138	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619306550848	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1619306758840	geckodriver	INFO	Listening on 127.0.0.1:44459
+1619306758847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqspcGy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619306765852	Marionette	INFO	Listening on port 33131
+1619306765888	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625280794516	geckodriver	INFO	Listening on 127.0.0.1:35603
+1625280795458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile87dBQ2"
+1625280798657	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile87dBQ2/search.json.mozlz4", (void 0)))
+1625280803470	Marionette	INFO	Listening on port 34367
+1625280803503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625280889058	Marionette	INFO	Stopped listening on port 34367
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625281054433	geckodriver	INFO	Listening on 127.0.0.1:55773
+1625281054439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRx6Xfk"
+1625281057407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRx6Xfk/search.json.mozlz4", (void 0)))
+1625281062778	Marionette	INFO	Listening on port 43563
+1625281064305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625281069323	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+1625281078391	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625281079516	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625283319738	geckodriver	INFO	Listening on 127.0.0.1:37521
+1625283320791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTUqPIw"
+1625283329084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTUqPIw/search.json.mozlz4", (void 0)))
+1625283337190	Marionette	INFO	Listening on port 39579
+1625283337330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625283342363	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 157 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.68e7fc85.js)
+1625283352923	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625283397034	geckodriver	INFO	Listening on 127.0.0.1:40569
+1625283398058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled2kiz6"
+1625283402211	Marionette	INFO	Marionette enabled
+1625283404816	Marionette	INFO	Stopped listening on port 39579
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled2kiz6/search.json.mozlz4", (void 0)))
+1625283408936	Marionette	INFO	Listening on port 45333
+1625283409025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625283414052	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+1625283424956	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625283425898	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625283485504	geckodriver	INFO	Listening on 127.0.0.1:55613
+1625283485521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejhzK9x"
+1625283490618	Marionette	INFO	Marionette enabled
+1625283492801	Marionette	INFO	Stopped listening on port 45333
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejhzK9x/search.json.mozlz4", (void 0)))
+1625283496064	Marionette	INFO	Listening on port 38431
+1625283496201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625283510316	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625283539106	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625283632669	geckodriver	INFO	Listening on 127.0.0.1:33849
+1625283633693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea0u6GX"
+1625283637133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea0u6GX/search.json.mozlz4", (void 0)))
+1625283642089	Marionette	INFO	Listening on port 36065
+1625283642360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625283647415	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 157 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.68e7fc85.js)
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 157 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.68e7fc85.js)
+1625283658117	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625283659057	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625283755929	Marionette	INFO	Stopped listening on port 36065
+1625283775210	geckodriver	INFO	Listening on 127.0.0.1:37845
+1625283776231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesgXTD2"
+1625283779155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesgXTD2/search.json.mozlz4", (void 0)))
+1625283783471	Marionette	INFO	Listening on port 38659
+1625283783586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625283788617	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 157 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.68e7fc85.js)
+1625283799091	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://twitter.com/tonmedeiros, line 131: ChunkLoadError: Loading chunk 247 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.2314ed55.js)
+1625283821671	geckodriver	INFO	Listening on 127.0.0.1:35205
+1625283822687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLRrqTc"
+1625283825531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLRrqTc/search.json.mozlz4", (void 0)))
+1625283829979	Marionette	INFO	Listening on port 37175
+1625283830228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625283835260	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+1625283844043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625283845272	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625283923376	Marionette	INFO	Stopped listening on port 37175
+1625283935624	geckodriver	INFO	Listening on 127.0.0.1:56519
+1625283935665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYLfoar"
+1625283938291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYLfoar/search.json.mozlz4", (void 0)))
+1625283942402	Marionette	INFO	Listening on port 35807
+1625283943951	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625283948989	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+JavaScript error: https://twitter.com/login/, line 131: ChunkLoadError: Loading chunk 157 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.68e7fc85.js)
+1625283959893	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625288183645	geckodriver	INFO	Listening on 127.0.0.1:56981
+1625288183656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekN9BQu"
+1625288185783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekN9BQu/search.json.mozlz4", (void 0)))
+1625288189280	Marionette	INFO	Listening on port 43429
+1625288189789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625288194807	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+1625288202877	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625288203636	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625288260819	geckodriver	INFO	Listening on 127.0.0.1:39389
+1625288260849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexHFetp"
+1625288262944	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexHFetp/search.json.mozlz4", (void 0)))
+1625288266502	Marionette	INFO	Listening on port 43571
+1625288266868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625288304105	geckodriver	INFO	Listening on 127.0.0.1:40787
+1625288304113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelsKTbY"
+1625288306373	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelsKTbY/search.json.mozlz4", (void 0)))
+1625288311925	Marionette	INFO	Listening on port 46119
+1625288312360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625288338812	Marionette	INFO	Stopped listening on port 35807
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625288340346	Marionette	INFO	Stopped listening on port 43571
+1625288341565	Marionette	INFO	Stopped listening on port 46119
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625288407384	geckodriver	INFO	Listening on 127.0.0.1:35733
+1625288408373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0y3XIC"
+1625288414585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0y3XIC/search.json.mozlz4", (void 0)))
+1625288421633	Marionette	INFO	Listening on port 46185
+1625288421905	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1625288438937	Marionette	INFO	Stopped listening on port 46185
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625288511288	geckodriver	INFO	Listening on 127.0.0.1:55161
+1625288511294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ASdyc"
+1625288513493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8ASdyc/search.json.mozlz4", (void 0)))
+1625288516928	Marionette	INFO	Listening on port 46469
+1625288517328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625288526988	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625288832602	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625288833449	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625289078176	Marionette	INFO	Stopped listening on port 46469
+1625360736545	geckodriver	INFO	Listening on 127.0.0.1:34375
+1625360737273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerrZrwx"
+1625360746992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerrZrwx/search.json.mozlz4", (void 0)))
